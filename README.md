@@ -10,4 +10,5 @@ refer:
 GUI apps:
 - https://github.com/yyearth/PLC-Monitor-modbus/tree/master
 - https://github.com/MSoftwaree/modbus-history-chart/tree/develop
+- https://realpython.com/python-gui-tkinter/
   
